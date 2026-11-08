@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Michael Lawrence Morgan · LA Job Search Tree",
+      "hasCanvas": false,
+      "bodyTextLen": 4086,
+      "bodyTextHash": "e922d65f60bb64931486079f5c1354b460cf1013a566d4cf63dc28cbd8127e3b",
+      "bodyTextPrefix": "Skip to content M Michael Lawrence Morgan LA Job Search Tree Tru",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Michael Lawrence Morgan · LA Job Search Tree",
+      "hasCanvas": false,
+      "bodyTextLen": 3959,
+      "bodyTextHash": "c320ddccc868c6660da37b79adef4126c3e227dde969343974d337d46242314f",
+      "bodyTextPrefix": "Skip to content M Trunk Limbs Fit 30 days Contact LA JOB SEARCH ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
